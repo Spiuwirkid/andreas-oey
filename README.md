@@ -2,7 +2,7 @@
 
 ✅ Minimal 2 paragraf deskripsi tentang diri
 
-✅ Menggunakan tag heading (<h1>–<h6>) dan elemen komentar
+✅ Menggunakan tag heading h1-h6 dan elemen komentar
 
 ✅ Menggunakan tag text formatting seperti <b>, <i>, <u>, <mark>, dll.
 
